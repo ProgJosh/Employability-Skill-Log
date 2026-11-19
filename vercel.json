@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/Grace-Velo-Skills-Log.html"
+    }
+  ]
+}
